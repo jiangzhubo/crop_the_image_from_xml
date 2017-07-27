@@ -1,0 +1,1 @@
+# crop_the_image_from_xml
